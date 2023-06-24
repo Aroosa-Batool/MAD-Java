@@ -2,6 +2,10 @@ package com.example.bouncingball;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.hardware.Sensor;
+import android.hardware.SensorEvent;
+import android.hardware.SensorEventListener;
+import android.hardware.SensorManager;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {

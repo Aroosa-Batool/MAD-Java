@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+
+    <string name="get_time">وقت</string>
+    <string name="draw_and_animate">اشکال</string>
+    <string name="location">جکہ</string>
+</resources>
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170601608369",
+    "project_id": "aroosasfirstadapp",
+    "storage_bucket": "aroosasfirstadapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170601608369:android:e763174a1b4adcc1df9e90",
+        "android_client_info": {
+          "package_name": "com.example.aroosasfirstadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170601608369-3p0pj84ahnpe5r8nj37avltefrcnfl4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1LRmQ9CYEQW2sbqBOPQBr1Px5gsv5mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170601608369-3p0pj84ahnpe5r8nj37avltefrcnfl4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab7Weather</string>
+    <string name="weather">طقس</string>
+    <string name="overall_weather">الطقس العام</string>
+    <string name="current_temperature">درجة الحرارة الحالية</string>
+    <string name="feels_like">أحس كأنني</string>
+    <string name="max_temperature">أقصى درجة حرارة</string>
+    <string name="min_temperature">دقيقة درجة الحرارة</string>
+    <string name="humidity">رطوبة</string>
+    <string name="visibility">الرؤية</string>
+    <string name="wind_speed">سرعة الرياح</string>
+    <string name="wind_direction">اتجاه الرياح</string>
+    <string name="sunrise_time">وقت الشروق</string>
+    <string name="sunset_time">وقت الغروب</string>
+    <string name="get_weather">احصل على الطقس</string>
+    <string name="city">مدينة</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114205928458",
+    "project_id": "aroosabatoollabexam",
+    "storage_bucket": "aroosabatoollabexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114205928458:android:d6b99fc3eecfd0937683f3",
+        "android_client_info": {
+          "package_name": "com.example.labfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114205928458-20pl6okj6bmbimtorr6m2eoif0qpoppj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_MWaxSJs405z5plF4g4zDs7pZr6HXeGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114205928458-20pl6okj6bmbimtorr6m2eoif0qpoppj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

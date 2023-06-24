@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab7Weather</string>
+    <string name="weather">Temps</string>
+    <string name="overall_weather">Météo globale</string>
+    <string name="current_temperature">Température actuelle</string>
+    <string name="feels_like">Se sent comme</string>
+    <string name="max_temperature">Température maximale</string>
+    <string name="min_temperature">Température minimale</string>
+    <string name="humidity">Humidité</string>
+    <string name="visibility">Visibilité</string>
+    <string name="wind_speed">Vitesse du vent</string>
+    <string name="wind_direction">Direction du vent</string>
+    <string name="sunrise_time">Heure du lever du soleil</string>
+    <string name="sunset_time">Heure du coucher du soleil</string>
+    <string name="get_weather">Obtenir la météo</string>
+    <string name="city">Ville</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab7Weather</string>
+    <string name="weather">موسم</string>
+    <string name="overall_weather">مجموعی طور پر موسم</string>
+    <string name="current_temperature">موجودہ درجہ حرارت</string>
+    <string name="feels_like">کی طرح لگتا ہے</string>
+    <string name="max_temperature">زیادہ سے زیادہ درجہ حرارت</string>
+    <string name="min_temperature">کم سے کم درجہ حرارت</string>
+    <string name="humidity">نمی</string>
+    <string name="visibility">مرئیت</string>
+    <string name="wind_speed">ہوا کی رفتار</string>
+    <string name="wind_direction">ہوا کی سمت</string>
+    <string name="sunrise_time">طلوع آفتاب کا وقت</string>
+    <string name="sunset_time">غروب آفتاب کا وقت</string>
+    <string name="get_weather">موسم حاصل کریں۔</string>
+    <string name="city">شہر</string>
+</resources>

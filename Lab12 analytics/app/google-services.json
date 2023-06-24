@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415817096651",
+    "project_id": "lab-12-e8945",
+    "storage_bucket": "lab-12-e8945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415817096651:android:e8d643a3370f25134baa4e",
+        "android_client_info": {
+          "package_name": "com.itubsce19008.lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415817096651-m236lbsp1hcem70lb7ul66001hnm6dls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlyHr63fZiDSxSKnqzybqwkjvRyBMW_hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415817096651-m236lbsp1hcem70lb7ul66001hnm6dls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

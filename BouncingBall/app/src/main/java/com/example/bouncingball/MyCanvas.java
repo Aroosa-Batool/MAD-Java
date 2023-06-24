@@ -1,5 +1,13 @@
 package com.example.bouncingball;
 
+import static android.hardware.camera2.params.RggbChannelVector.RED;
+
+import android.content.Context;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.view.View;
+
 public class MyCanvas extends View {
     //variables
     int ballx, bally, ballw, ballh;
@@ -60,9 +68,11 @@ public class MyCanvas extends View {
 
         Paint red = new Paint(Color.RED);
         Paint blue = new Paint(Color.BLUE);
-        Paint paint_text = new Paint(Color.CYAN);
+        Paint paint_text = new Paint();
+        paint_text.setColor(Color.RED);
         Paint brick_paint = new Paint(Color.GREEN);
         paint_text.setTextSize(80);
+
         canvas.drawCircle(ballx, bally, ballw/2, red);
         canvas.drawRect(tabx, taby, tabx+tabw, taby+tabh, blue);
         if(show_brick1 == true)
